@@ -1,0 +1,43 @@
+
+/*landing page*/
+.icon {
+    width: 200px;
+    height: auto;
+
+}
+
+a:link {
+    color: black;
+}
+a:visited 
+{
+    color: blue;
+}
+a:hover {
+    color: grey;
+}
+a:active {
+    color: red
+}
+
+/*recipe page*/
+
+.topphoto {
+    width: 500px;
+    height: auto;
+}
+
+
+h1 {
+    background-color: navy;
+    text-align: center;
+    color: white
+}
+
+ul {
+    font-style: italic;
+}
+
+#landlist {
+    font-style: normal;
+}
